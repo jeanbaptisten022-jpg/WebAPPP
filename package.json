@@ -4,5 +4,16 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
-  }
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanbaptisten022-jpg/webapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeanbaptisten022-jpg/webapp/issues"
+  },
+  "homepage": "https://github.com/jeanbaptisten022-jpg/webapp#readme",
+  "description": ""
 }
